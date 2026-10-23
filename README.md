@@ -1,1 +1,1 @@
-# bjhtechoffice.github.io
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpTEifmDlB6HQwQ2cM7j9GTEtnkHYHv3QlTecpmjMrNcCzjatdNM-4E9XGekZ_4PP_d0hfAkknXFmZ/pubembed?start=true&loop=true&delayms=10000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
